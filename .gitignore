@@ -1,0 +1,6 @@
+**/node_modules
+.vagrant
+public
+**/ubuntu-*
+npm-debug.log
+**/.DS_Store
