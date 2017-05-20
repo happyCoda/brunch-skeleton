@@ -31,7 +31,7 @@ module.exports = {
   sourceMaps: false,
   plugins: {
     eslint: {
-      pattern: /^js/
+      pattern: /^app\/js\/.*.js$/
     },
     karma: {
       singleRun: true,
